@@ -1,1 +1,32 @@
+типовые сервисы aws:
+Virtual servers - EC2 instances
+Virtual network - VPC
+Unlimited web space - S3 Bucket
+Web sites hosting - s3 web hosting
+domain registration, dns - route53
+sql and nosql db - rds, dynamoDB
+infrastructure as code - cloud formation
+automatior devops
+
+Книга AWS certified solutions architect official study guide associate exam 
+Лучшая книга по aws
+Книга не актуальна
+
+a cloud guru лучшие курсы для сертификации
+
+                  Сертификация aws
+level certificate:
+-solutions arhitect
+ -developer
+-sysops administrator
+у всех есть следующии уровни
+
+Для экзамена необходимо знать эти сервисы:
+Amazon EC2 - инфраструктура виртуальных серверов
+Elastic load balancing - балансировщик серверов
+AWS Elastic Beanstalk - сервис автоматического запуска веб-приложеиния
+Amazon CloudFront - кэширующие сервера для ускорения работы веб-приложений
+Amazon CloudWatch - мониторинг инфраструктуры
+
+
 
